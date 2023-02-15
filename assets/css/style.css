@@ -23,6 +23,12 @@ a:hover {
   text-decoration: none;
 }
 
+p.text-block {
+  font-size: 18px;
+  padding: 25px;
+  text-align: justify;
+}
+
 h1,
 h2,
 h3,
